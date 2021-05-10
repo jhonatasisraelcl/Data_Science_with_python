@@ -10,6 +10,11 @@ Nesta aula aprenderemos a plotar e estilizar gráficos com as bibliotecas seabor
 ## AULA 3: CORRELAÇÕES, CAUSALIDADE E RELAÇÕES ENTRE GENES.
 Nesta aula aprendemos como cruzar informações dos dados, analisando as relações de diversas colunas entre sí, iniciaremos relacionando os dados de experimentos e posteriormente os tipos genéticos. Em seguida utilizamos o gráfico de dispersão para investigar a relação entre os genes. Por fim, aprendemos o que é correlação discutindo também sobre causalidade, nosso objetivo é através da correlação levantar possíveis hipóteses relacionadas aos estímulos biológicos provocados pelos experimentos nas amostras celulares, por fim aprendemos como visualizar a correlação em um mapa de calor.
 
+##
+
+## AULA 5: MACHINE LEARNING, SCI-KIT LEARNING E DESAFIOS ENVOLVIDOS.
+Nesta aula, finalmente vamos criar o nosso primeiro modelo de Machine Learning para classificar um novo composto com o intuito de prever se o MoA foi ativado ou não. Para isso, vamos usar a famosa biblioteca scikit-learn para testar a regressão logística e entender o funcionamento de uma árvore de decisão (AD). Além disso, discutiremos problemas importantes como o overfit.
+
 
 Esse projeto foi inspirado em um desafio do Laboratory innovation science at Harvard disponibilizando os dados em uma competição no kaggle.
 
