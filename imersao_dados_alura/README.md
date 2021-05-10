@@ -1,6 +1,9 @@
 #imersaodados
 
 ## Aula 1 - ANÁLISE DE DADOS, PYTHON, PANDAS E NOVOS FÁRMACOS
+Nesta aula teremos nosso primeiro contato com Python e a famosa biblioteca Pandas, utilizando diversas funcionalidades da mesma para explorar dados do ramo de Drug Discovery. Durante nossa análise de dados, vamos descobrir fatores importantes para a obtenção de insights e também aprenderemos como plotar os gráficos de pizza e de colunas discutindo pontos positivos e negativos, finalizando a aula cheia de desafios.
+
+
 ## AULA 2: ESTATÍSTICAS, VISUALIZAÇÃO DE DADOS E DISTRIBUIÇÕES
 Nesta aula aprenderemos a plotar e estilizar gráficos com as bibliotecas seaborn e matplotlib, utilizando recursos de seleção e tratamentos nos dados. Conhecemos o histograma para visualizar a média dos genes, utilizando a função describe para descrever estatisticamente os dados. Por fim, entendemos o boxplot e como tratar os outliers.
 
