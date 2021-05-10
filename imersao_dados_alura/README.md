@@ -7,6 +7,9 @@ Nesta aula teremos nosso primeiro contato com Python e a famosa biblioteca Panda
 ## AULA 2: ESTATÍSTICAS, VISUALIZAÇÃO DE DADOS E DISTRIBUIÇÕES
 Nesta aula aprenderemos a plotar e estilizar gráficos com as bibliotecas seaborn e matplotlib, utilizando recursos de seleção e tratamentos nos dados. Conhecemos o histograma para visualizar a média dos genes, utilizando a função describe para descrever estatisticamente os dados. Por fim, entendemos o boxplot e como tratar os outliers.
 
+## AULA 3: CORRELAÇÕES, CAUSALIDADE E RELAÇÕES ENTRE GENES.
+Nesta aula aprendemos como cruzar informações dos dados, analisando as relações de diversas colunas entre sí, iniciaremos relacionando os dados de experimentos e posteriormente os tipos genéticos. Em seguida utilizamos o gráfico de dispersão para investigar a relação entre os genes. Por fim, aprendemos o que é correlação discutindo também sobre causalidade, nosso objetivo é através da correlação levantar possíveis hipóteses relacionadas aos estímulos biológicos provocados pelos experimentos nas amostras celulares, por fim aprendemos como visualizar a correlação em um mapa de calor.
+
 
 Esse projeto foi inspirado em um desafio do Laboratory innovation science at Harvard disponibilizando os dados em uma competição no kaggle.
 
