@@ -48,3 +48,9 @@ sub     | Replaces one or many matches with a string
 
 	
 https://www.w3schools.com/python/python_regex.asp
+
+
+## Analise de sentimentos
+### Natural Language Toolkit
+
+https://www.nltk.org/
