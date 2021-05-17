@@ -32,8 +32,14 @@ df['quarter'] = pd.DatetimeIndex(df['date']).quarter
 ### Pandas
 
 
-## visualização dos dados
+## Visualização dos dados
 ### missingno
+Essa linda biblioteca permite que você visualize dados nulos em seu dataset, como na imagem abaixo. Além de funcionar com datasets tradicionais, a lib se mostra muito útil para dados com séries temporais também.
+
+![image](https://user-images.githubusercontent.com/29488124/118506825-0cf3f980-b704-11eb-9c7e-a1221a6395b1.png)
+
+Ela consegue me dar uma visão clara e rápida sobre como meus dados estão distribuídos e quais pontos irei atacar primeiro.
+
 ### matplotlib
 ### seaborn
 
