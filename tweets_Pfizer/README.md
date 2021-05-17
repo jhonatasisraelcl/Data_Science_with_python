@@ -28,11 +28,11 @@ df['quarter'] = pd.DatetimeIndex(df['date']).quarter
 
 
 # Bibliotecas
-##manipulação dos dados
+## manipulação dos dados
 ### Pandas
 
 
-##visualização dos dados
+## visualização dos dados
 ### missingno
 ### matplotlib
 ### seaborn
