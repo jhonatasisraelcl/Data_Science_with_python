@@ -27,10 +27,24 @@ df['quarter'] = pd.DatetimeIndex(df['date']).quarter
 
 
 
-# bibliotecas
+# Bibliotecas
+##manipulação dos dados
+### Pandas
 
-## Python RegEx
+
+##visualização dos dados
+### missingno
+### matplotlib
+### seaborn
+
+
+## Expressoes regulares
+### Python RegEx
 Um RegEx, ou Expressão Regular, é uma sequência de caracteres que forma um padrão de pesquisa. RegEx pode ser usado para verificar se uma string contém o padrão de pesquisa especificado.
 
-sub	Replaces one or many matches with a string
+Função | Descrição
+--------- | ------
+sub     | Replaces one or many matches with a string
+
+	
 https://www.w3schools.com/python/python_regex.asp
